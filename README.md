@@ -21,15 +21,23 @@ This repository is built for **musicians, labels, indie artists, YouTubers, visu
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Best AI Video Generator Resources](https://github.com/cliprise/best-ai-video-generator-resources)
-- [Awesome AI Video Generator Prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts)
-- [Best AI Image Generator Resources](https://github.com/cliprise/best-ai-image-generator-resources)
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome Seedance 2 prompts](https://github.com/cliprise/awesome-seedance-2-prompts) - ByteDance Seedance 2.0 style multimodal video prompts and notes.
+- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Awesome AI thumbnail prompts](https://github.com/cliprise/awesome-ai-thumbnail-prompts) - YouTube and social cover prompts with readable negative space.
+<!-- CLIPRISE_LINKING_END -->
 
----
+<!-- CLIPRISE_FURTHER_READING_START -->
+## Further reading from Cliprise
 
+- [AI music video production guide (LinkedIn)](https://www.linkedin.com/pulse/ai-music-video-2026-complete-production-guide-from-prompt-ox6jf)
+- [Music video workflow (Cliprise Learn)](https://www.cliprise.app/learn/workflows/marketing/ai-music-video-production-complete-workflow-independent-artists)
+
+<!-- CLIPRISE_FURTHER_READING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
